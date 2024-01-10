@@ -1,0 +1,242 @@
+ancestry,name,alpha-3,region,sub-region
+Alsatian,France,FRA,Europe,Western Europe
+Austrian,Austria,AUT,Europe,Western Europe
+Basque,Spain,ESP,Europe,Southern Europe
+Belgian,Belgium,BEL,Europe,Western Europe
+Flemish,Belgium,BEL,Europe,Western Europe
+British,United Kingdom,GBR,Europe,Northern Europe
+British Isles,United Kingdom,GBR,Europe,Northern Europe
+Danish,Denmark,DNK,Europe,Northern Europe
+Dutch,Netherlands,NLD,Europe,Western Europe
+English,United Kingdom,GBR,Europe,Northern Europe
+Finnish,Finland,FIN,Europe,Northern Europe
+French,France,FRA,Europe,Western Europe
+German,Germany,DEU,Europe,Western Europe
+Prussian,Germany,DEU,Europe,Western Europe
+Greek,Greece,GRC,Europe,Southern Europe
+Icelander,Iceland,ISL,Europe,Northern Europe
+Irish,Ireland,IRL,Europe,Northern Europe
+Italian,Italy,ITA,Europe,Southern Europe
+Sicilian,Italy,ITA,Europe,Southern Europe
+Luxembourger,Luxembourg,LUX,Europe,Western Europe
+Maltese,Malta,MLT,Europe,Southern Europe
+Norwegian,Norway,NOR,Europe,Northern Europe
+Portuguese,Portugal,PRT,Europe,Southern Europe
+Scotch Irish,Ireland,IRL,Europe,Northern Europe
+Scottish,United Kingdom,GBR,Europe,Northern Europe
+Swedish,Sweden,SWE,Europe,Northern Europe
+Swiss,Switzerland,CHE,Europe,Western Europe
+Irish Scotch,Ireland,IRL,Europe,Northern Europe
+Welsh,United Kingdom,GBR,Europe,Northern Europe
+Scandinavian,Sweden,SWE,Europe,Northern Europe
+Celtic,Ireland,IRL,Europe,Northern Europe
+Albanian,Albania,ALB,Europe,Southern Europe
+Belorussian,Belarus,BLR,Europe,Eastern Europe
+Bulgarian,Bulgaria,BGR,Europe,Eastern Europe
+Croatian,Croatia,HRV,Europe,Southern Europe
+Czech,Czechia,CZE,Europe,Eastern Europe
+Bohemian,Czechia,CZE,Europe,Eastern Europe
+Czechoslovakian,Czechia,CZE,Europe,Eastern Europe
+Estonian,Estonia,EST,Europe,Northern Europe
+German Russian,Germany,DEU,Europe,Western Europe
+Rom,Romania,ROU,Europe,Eastern Europe
+Hungarian,Hungary,HUN,Europe,Eastern Europe
+Latvian,Latvia,LVA,Europe,Northern Europe
+Lithuanian,Lithuania,LTU,Europe,Northern Europe
+Macedonian,North Macedonia,MKD,Europe,Southern Europe
+Montenegrin,Montenegro,MNE,Europe,Southern Europe
+Polish,Poland,POL,Europe,Eastern Europe
+Romanian,Romania,ROU,Europe,Eastern Europe
+Moldavian,Moldova,MDA,Europe,Eastern Europe
+Russian,Russian Federation,RUS,Europe,Eastern Europe
+Serbian,Serbia,SRB,Europe,Southern Europe
+Slovak,Slovakia,SVK,Europe,Eastern Europe
+Slovene,Slovenia,SVN,Europe,Southern Europe
+Turkestani,Turkmenistan,TKM,Asia,Central Asia
+Uzbeg,Uzbekistan,UZB,Asia,Central Asia
+Georgia CIS,Georgia,GEO,Asia,Western Asia
+Ukrainian,Ukraine,UKR,Europe,Eastern Europe
+Yugoslavian,Serbia,SRB,Europe,Southern Europe
+Bosnian and Herzegovinian,Bosnia and Herzegovina,BIH,Europe,Southern Europe
+Slavic,Ukraine,UKR,Europe,Eastern Europe
+Slavonian,Croatia,HRV,Europe,Southern Europe
+Central European,,,Europe,Europe
+Northern European,,,Europe,Northern Europe
+Southern European,,,Europe,Southern Europe
+Western European,,,Europe,Western Europe
+Eastern European,,,Europe,Eastern Europe
+Germanic,Germany,DEU,Europe,Western Europe
+European,,,Europe,Europe
+Spaniard,Spain,ESP,Europe,Southern Europe
+Mexican,Mexico,MEX,Americas,Latin America and the Caribbean
+Mexican American,Mexico,MEX,Americas,Latin America and the Caribbean
+Mexicano,Mexico,MEX,Americas,Latin America and the Caribbean
+Chicano,Mexico,MEX,Americas,Latin America and the Caribbean
+Mexican American Indian,Mexico,MEX,Americas,Latin America and the Caribbean
+Mexican State,Mexico,MEX,Americas,Latin America and the Caribbean
+Mexican Indian,Mexico,MEX,Americas,Latin America and the Caribbean
+Costa Rican,Costa Rica,CRI,Americas,Latin America and the Caribbean
+Guatemalan,Guatemala,GTM,Americas,Latin America and the Caribbean
+Honduran,Honduras,HND,Americas,Latin America and the Caribbean
+Nicaraguan,Nicaragua,NIC,Americas,Latin America and the Caribbean
+Panamanian,Panama,PAN,Americas,Latin America and the Caribbean
+Salvadoran,El Salvador,SLV,Americas,Latin America and the Caribbean
+Central American,Mexico,MEX,Americas,Latin America and the Caribbean
+Argentinean,Argentina,ARG,Americas,Latin America and the Caribbean
+Bolivian,Bolivia (Plurinational State of),BOL,Americas,Latin America and the Caribbean
+Chilean,Chile,CHL,Americas,Latin America and the Caribbean
+Colombian,Colombia,COL,Americas,Latin America and the Caribbean
+Ecuadorian,Ecuador,ECU,Americas,Latin America and the Caribbean
+Paraguayan,Paraguay,PRY,Americas,Latin America and the Caribbean
+Peruvian,Peru,PER,Americas,Latin America and the Caribbean
+Uruguayan,Uruguay,URY,Americas,Latin America and the Caribbean
+Venezuelan,Venezuela (Bolivarian Republic of),VEN,Americas,Latin America and the Caribbean
+South American,,,Americas,Latin America and the Caribbean
+Latin American,,,Americas,Latin America and the Caribbean
+Latin,,,Americas,Latin America and the Caribbean
+Latino,,,Americas,Latin America and the Caribbean
+Puerto Rican,Puerto Rico,PRI,Americas,Latin America and the Caribbean
+Cuban,Cuba,CUB,Americas,Latin America and the Caribbean
+Dominican,Dominican Republic,DOM,Americas,Latin America and the Caribbean
+Hispanic,Mexico,MEX,Americas,Latin America and the Caribbean
+Spanish,Spain,ESP,Europe,Southern Europe
+Spanish American,Spain,ESP,Europe,Southern Europe
+Bahamian,Bahamas,BHS,Americas,Latin America and the Caribbean
+Barbadian,Barbados,BRB,Americas,Latin America and the Caribbean
+Belizean,Belize,BLZ,Americas,Latin America and the Caribbean
+Jamaican,Jamaica,JAM,Americas,Latin America and the Caribbean
+Dutch West Indian,Sint Maarten (Dutch part),SXM,Americas,Latin America and the Caribbean
+Trinidadian Tobagonian,Trinidad and Tobago,TTO,Americas,Latin America and the Caribbean
+British West Indian,Virgin Islands (British),VGB,Americas,Latin America and the Caribbean
+Antigua and Barbuda,Antigua and Barbuda,ATG,Americas,Latin America and the Caribbean
+Grenadian,Grenada,GRD,Americas,Latin America and the Caribbean
+Vincent-Grenadine Islander,Saint Vincent and the Grenadines,VCT,Americas,Latin America and the Caribbean
+St Lucia Islander,Saint Lucia,LCA,Americas,Latin America and the Caribbean
+West Indian,Virgin Islands (British),VGB,Americas,Latin America and the Caribbean
+Haitian,Haiti,HTI,Americas,Latin America and the Caribbean
+Other West Indian,Virgin Islands (U.S.),VIR,Americas,Latin America and the Caribbean
+Brazilian,Brazil,BRA,Americas,Latin America and the Caribbean
+Guyanese,Guyana,GUY,Americas,Latin America and the Caribbean
+Algerian,Algeria,DZA,Africa,Northern Africa
+Egyptian,Egypt,EGY,Africa,Northern Africa
+Libyan (2017 or later),Libya,LBY,Africa,Northern Africa
+Moroccan,Morocco,MAR,Africa,Northern Africa
+North African,,,Africa,Northern Africa
+Iranian,Iran,IRN,Asia,Southern Asia
+Iraqi,Iraq,IRQ,Asia,Western Asia
+Israeli,Israel,ISR,Asia,Western Asia
+Jordanian,Jordan,JOR,Asia,Western Asia
+Kuwaiti (2017 or later),Kuwait,KWT,Asia,Western Asia
+Lebanese,Lebanon,LBN,Asia,Western Asia
+Saudi Arabian,Saudi Arabia,SAU,Asia,Western Asia
+Syrian,Syrian Arab Republic,SYR,Asia,Western Asia
+Armenian,Armenia,ARM,Asia,Western Asia
+Turkish,Turkey,TUR,Asia,Western Asia
+Yemeni,Yemen,YEM,Asia,Western Asia
+Kurdish,Turkey,TUR,Asia,Western Asia
+Palestinian,Palestine,PSE,Asia,Western Asia
+Assyrian,Iraq,IRQ,Asia,Western Asia
+Chaldean,Turkey,TUR,Asia,Western Asia
+Mideast,Turkey,TUR,Asia,Western Asia
+Arab,Iran,IRN,Asia,Southern Asia
+Arabic,,,Asia,Western Asia
+Other Arab,,,Asia,Western Asia
+Cameroonian,Cameroon,CMR,Africa,Sub-Saharan Africa
+Cape Verdean,Cabo Verde,CPV,Africa,Sub-Saharan Africa
+Congolese,Congo,COG,Africa,Sub-Saharan Africa
+Ethiopian,Ethiopia,ETH,Africa,Sub-Saharan Africa
+Eritrean,Eritrea,ERI,Africa,Sub-Saharan Africa
+Gambian (2017 or later),Gambia,GMB,Africa,Sub-Saharan Africa
+Ghanaian,Ghana,GHA,Africa,Sub-Saharan Africa
+Guinean (2017 or later),Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa
+Kenyan,Kenya,KEN,Africa,Sub-Saharan Africa
+Liberian,Liberia,LBR,Africa,Sub-Saharan Africa
+Nigerian,Nigeria,NGA,Africa,Sub-Saharan Africa
+Senegalese,Senegal,SEN,Africa,Sub-Saharan Africa
+Sierra Leonean,Sierra Leone,SLE,Africa,Sub-Saharan Africa
+Somali,Somalia,SOM,Africa,Sub-Saharan Africa
+South African,South Africa,ZAF,Africa,Sub-Saharan Africa
+Sudanese,Sudan,SDN,Africa,Northern Africa
+Togo (2017 or later),Togo,TGO,Africa,Sub-Saharan Africa
+Other Subsaharan African,,,Africa,Sub-Saharan Africa
+Ugandan,Uganda,UGA,Africa,Sub-Saharan Africa
+Zimbabwean (2017 or later),Zimbabwe,ZWE,Africa,Sub-Saharan Africa
+Western African,,,Africa,Western Africa
+African,,,Africa,Africa
+Afghan,Afghanistan,AFG,Asia,Southern Asia
+Bangladeshi,Bangladesh,BGD,Asia,Southern Asia
+Bhutanese,Bhutan,BTN,Asia,Southern Asia
+Nepali,Nepal,NPL,Asia,Southern Asia
+Asian Indian,India,IND,Asia,Southern Asia
+Bengali,Bangladesh,BGD,Asia,Southern Asia
+East Indian,India,IND,Asia,Southern Asia
+Punjabi,India,IND,Asia,Southern Asia
+Pakistani,Pakistan,PAK,Asia,Southern Asia
+Sri Lankan,Sri Lanka,LKA,Asia,Southern Asia
+Burmese,Myanmar,MMR,Asia,South-eastern Asia
+Cambodian,Cambodia,KHM,Asia,South-eastern Asia
+Chinese,China,CHN,Asia,Eastern Asia
+Cantonese,China,CHN,Asia,Eastern Asia
+Mongolian,Mongolia,MNG,Asia,Eastern Asia
+Tibetan,China,CHN,Asia,Eastern Asia
+Hong Kong (2017 or later),Hong Kong,HKG,Asia,Eastern Asia
+Filipino,Philippines,PHL,Asia,South-eastern Asia
+Indonesian,Indonesia,IDN,Asia,South-eastern Asia
+Japanese,Japan,JPN,Asia,Eastern Asia
+Okinawan,Japan,JPN,Asia,Eastern Asia
+Korean,South Korea,PRK,Asia,Eastern Asia
+Laotian,Lao People's Democratic Republic,LAO,Asia,South-eastern Asia
+Hmong,Vietnam,VNM,Asia,South-eastern Asia
+Malaysian,Malaysia,MYS,Asia,South-eastern Asia
+Thai,Thailand,THA,Asia,South-eastern Asia
+Taiwanese,Taiwan,TWN,Asia,Eastern Asia
+Vietnamese,Vietnam,VNM,Asia,South-eastern Asia
+Eurasian (2016 or earlier),,,Asia,Western Asia
+Asian,,,Asia,Asia
+Other Asian,,,Asia,Asia
+Australian,Australia,AUS,Oceania,Australia and New Zealand
+New Zealander,New Zealand,NZL,Oceania,Australia and New Zealand
+Polynesian,Tonga,TON,Oceania,Polynesia
+Hawaiian,United States of America,USA,Americas,Northern America
+Samoan,Samoa,WSM,Oceania,Polynesia
+Tongan,Tonga,TON,Oceania,Polynesia
+Micronesian,Micronesia (Federated States of),FSM,Oceania,Micronesia
+Guamanian,Guam,GUM,Oceania,Micronesia
+Chamorro,Guam,GUM,Oceania,Micronesia
+Palauan (2017 or later),Palau,PLW,Oceania,Micronesia
+Marshallese,Marshall Islands,MHL,Oceania,Micronesia
+Fijian,Fiji,FJI,Oceania,Melanesia
+Pacific Islander,Samoa,WSM,Oceania,Polynesia
+Other Pacific,Samoa,WSM,Oceania,Polynesia
+Afro American,,,Africa,Western Africa
+Afro,,,Africa,Western Africa
+African American,,,Africa,Western Africa
+Black,,,Africa,Western Africa
+Negro,,,Africa,Western Africa
+Creole,,,Africa,Western Africa
+Central American Indian,United States of America,USA,Americas,Northern America
+South American Indian,United States of America,USA,Americas,Northern America
+Native American,United States of America,USA,Americas,Northern America
+Indian,United States of America,USA,Americas,Northern America
+Cherokee,United States of America,USA,Americas,Northern America
+American Indian,United States of America,USA,Americas,Northern America
+Aleut (2016 or earlier),United States of America,USA,Americas,Northern America
+Eskimo,United States of America,USA,Americas,Northern America
+White,United States of America,USA,Americas,Northern America
+Anglo,,,Europe,Europe
+Appalachian,United States of America,USA,Americas,Northern America
+Pennsylvania German,Germany,DEU,Europe,Western Europe
+Canadian,Canada,CAN,Americas,Northern America
+French Canadian,Canada,CAN,Americas,Northern America
+Acadian (2017 or later),France,FRA,Europe,Western Europe
+Cajun,France,FRA,Europe,Western Europe
+American,United States of America,USA,Americas,Northern America
+United States,United States of America,USA,Americas,Northern America
+New Mexico (2017 or later),United States of America,USA,Americas,Northern America
+Texas,United States of America,USA,Americas,Northern America
+North American,United States of America,USA,Americas,Northern America
+Mixture,,,,
+Uncodable entries,,,,
+Other groups,,,,
+Other responses,,,,
+Not reported,,,,
